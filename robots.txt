@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://research.happyaidata.kr/sitemap.xml
